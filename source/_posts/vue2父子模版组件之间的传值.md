@@ -6,7 +6,7 @@ pageview: 1
 date: 2019-06-17 13:50:28
 tags:
   - vue
-cover:
+cover: https://qiniublog.whitedolphin.top/20190705144656.png
 ---
 
 ```html
