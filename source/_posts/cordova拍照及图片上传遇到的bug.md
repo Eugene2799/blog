@@ -126,4 +126,7 @@ export function blobToFile(theBlob, fileName){
 ```text
 还接触到了fileEntry和文件存储这部分的内容。
 所以搞东西还是盲区学习的多，横冲直闯，进行很多的尝试，学习到很多扩展和意外的内容。
+
+另外这个blog用的技术确实有点垃圾，倒是最节省经济。不过有时间的话，还是搞个vue的项目吧。
+hexo可优化的地方太少了。
 ```
